@@ -30,5 +30,4 @@ This repository contains a set of software and computational pipelines developed
 1. `Postprocessing` contains the scripts and classes for image processing, asynchronous data processing, and data management. 
 1. `Refractometer` contains the classes for controlling inline refractometer and adjusting solution index
 
-
-
+This pipeline is implemented in MATLAB 2021b on Win 10. ScanImage 2021.0.0 APIs are used for controlling multiphoton imaging. 
