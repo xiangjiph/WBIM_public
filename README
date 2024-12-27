@@ -1,0 +1,5 @@
+WBIM is an all-optical serial multiphoton microscope designed for sub-micrometer resolution 3D imaging of organ-scale complex tissue. This system combined multiphoton microscopy with femtosecond laser machining to iteratively image and section biological tissues of distinct optical and mechanical properties. We tested this system on in situ imaging of mouse brain-skull system.
+
+This repository contains: 
+1.  The instrument control pipeline implemented in MATLAB under the `WBIM` folder 
+2.  The asychronously parallel processing pipline implemented in Python under the `SITiffConverter` folder. 
